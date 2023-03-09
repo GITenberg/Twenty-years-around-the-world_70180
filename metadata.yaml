@@ -1,0 +1,27 @@
+_repo: Twenty-years-around-the-world_70180
+_version: 0.0.1
+creator:
+  author:
+    agent_name: John Guy Vassar (1811-1888)
+    gutenberg_agent_id: '55642'
+    url: http://www.gutenberg.org/2009/agents/55642
+description: ''
+gutenberg_issued: '2023-03-01'
+identifiers:
+  gutenberg: '70180'
+language: en
+pgterms:marc904: https://archive.org/details/twentyyearsaroun00vass
+pgterms:marc905: 20200125213445vassar
+pgterms:marc906: '1861'
+pgterms:marc907: US
+production_note: MFR, Karin Spence and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited States :$bRudd & Carleton, $c1861.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Twenty years around the world
+url: http://www.gutenberg.org/ebooks/70180
