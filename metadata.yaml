@@ -1,11 +1,16 @@
 _repo: Twenty-years-around-the-world_70180
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70180-h/images/cover.jpg
 creator:
   author:
     agent_name: John Guy Vassar (1811-1888)
     gutenberg_agent_id: '55642'
     url: http://www.gutenberg.org/2009/agents/55642
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70180#Twenty-years-around-the-world
 gutenberg_issued: '2023-03-01'
 identifiers:
   gutenberg: '70180'
